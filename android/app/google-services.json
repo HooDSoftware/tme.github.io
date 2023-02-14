@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1068736385690",
+    "firebase_url": "https://flute-1-default-rtdb.firebaseio.com",
+    "project_id": "flute-1",
+    "storage_bucket": "flute-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068736385690:android:5e20d3e31216ddea3cc523",
+        "android_client_info": {
+          "package_name": "com.example.proton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068736385690-7cbenrvufnl33okeda88md729ias9rs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpfuCAXdguTCGd9-P8oTYETaM_Z_Wl22o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068736385690-7cbenrvufnl33okeda88md729ias9rs6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068736385690-mgq9akbi37ljk2i44l8uopd3uj6s20bg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.proton"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
